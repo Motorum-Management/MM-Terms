@@ -1,3 +1,4 @@
+<html>
 <body>
   <h6>Last updated: September 6th 2025</h6>
   <h1>Terms of Service</h1>
@@ -40,7 +41,6 @@
 		  <li>User IDs</li>
 		  <li>Server IDs</li>
 		  <li>Messages and message content</li>
-		  <li>Profile pictures and banners</li>
 	  </ul>
 	  <li>All data Motorum Management™ collects is for the functionally of the bot.</li>
 	  <li>Motorum Management™ will not share or sell your data with third parties</li>
