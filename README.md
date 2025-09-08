@@ -61,6 +61,6 @@
   </ul>
 
   <h2>8. Contact</h2>
-  <p>If you have inquries regarding these terms, contact us at: <strong>flevie@thegrove.com</strong></p>
+  <p>If you have inquries regarding these terms, contact us at: <strong>flevie@thegrove.se</strong></p>
 </body>
 </html>
