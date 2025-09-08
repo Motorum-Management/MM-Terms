@@ -45,7 +45,7 @@
 	  <li>All data Motorum Management™ collects is for the functionally of the bot.</li>
 	  <li>Motorum Management™ will not share or sell your data with third parties</li>
 	  <li>You may request data deletion at any time by contacting us either via our server or via the email stated below.</li>
-	  <li>For full details, read the Privacy Policy (another respitory within our GitHub organisation).</li>
+	  <li>For full details, read the Privacy Policy (another repository within our GitHub organisation).</li>
   </ul>
 
   <h2>6. Changes</h2>
